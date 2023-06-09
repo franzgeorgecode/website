@@ -5,7 +5,7 @@
       "name": "mobirise5",
       "title": "Mobirise 5",
       "styling": {
-        "primaryColor": "#47b5ed",
+        "primaryColor": "#ffe885",
         "secondaryColor": "#d8c3a5",
         "successColor": "#40b0bf",
         "infoColor": "#47b5ed",
@@ -45,7 +45,7 @@
         "url": "https://fonts.googleapis.com/css?family=Lexend:100,200,300,400,500,600,700,800,900"
       }
     ],
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "uniqCompNum": 7,
     "versionPublish": "5.6.11"
   },
